@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @aashin001
-- 👀 I’m interested in learning coding and development of softwares
-- 🌱 I’m currently learning html/css,media queries,etc
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email @ aashinmn@gmail.com
+👋 Hi, I’m Aashin!
+💻 Passionate about coding and software development.
+🚀 Currently seeking a development role in IT.
+📚 Continuously learning and improving my skills.
+🤝 Open to collaboration on exciting projects.
+📫 Reach me at aashinmn@gmail.com
 
 <!---
 aashin001/aashin001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
